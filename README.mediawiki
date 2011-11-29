@@ -1,8 +1,7 @@
 = Web Scanner Security Tests =
 
-These files make up a collection of very cheap and messy PHP scripts meant to look like a vulnerable Web application.  They were originally created to help with quick functional testing of the [http://websecuritytool.codeplex.com|Watcher Web security tool] set of rules.  Each file in turn represents one test for one Watcher check.  By loading the index.html file you will be presented with a list of all tests hyperlinked for quick loading. 
+These files make up a collection of very cheap and messy PHP scripts meant to look like a vulnerable Web application.  They were originally created to help with quick functional testing of the [http://websecuritytool.codeplex.com Watcher Web security tool] set of rules.  Each file in turn represents one test for one Watcher check.  By loading the index.html file you will be presented with a list of all tests hyperlinked for quick loading. 
 
 '''''WARNING - INSECURE PHP SCRIPTS'''''
-As if you couldn't tell by now, these PHP files are meant to mimic a vulnerable Web application.  Of course they're very shallow, and nothing even close to a proper vulnerable Web application meant for real testing.  Some of those that come to mind are [http://www.dvwa.co.uk/|DVWA], [http://code.google.com/p/bodgeit/|bodgeit], and well a whole bunch of others listed [http://r00tsec.blogspot.com/2011/02/pentest-lab-vulnerable-servers.html|here].
 
-
+As if you couldn't tell by now, these PHP files are meant to mimic a vulnerable Web application.  Of course they're very shallow, and nothing even close to a proper vulnerable Web application meant for real testing.  Some of those that come to mind are [http://www.dvwa.co.uk DVWA], [http://code.google.com/p/bodgeit/ bodgeit], and well a whole bunch of others listed [http://r00tsec.blogspot.com/2011/02/pentest-lab-vulnerable-servers.html here].
